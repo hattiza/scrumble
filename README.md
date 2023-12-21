@@ -1,17 +1,21 @@
-# Scrum inspired personal accountability log
+# Scrum-inspired personal accountability log
 
-## Release 01 [21-DEC-2023] - [14-FEB-2023]
+## [Release 01 [21-DEC-2023] - [14-FEB-2023]](https://github.com/hattiza/scrumble/milestone/1)
 
 ### Release Plan
 
 #### Goals
 
-* [ ] Udacity: Intro to Python for AI Programmers
-* [ ] Udacity: Linear Algebra Essentials
-* [ ] FCC: Scientific Computing with Python (Beta)
-* [ ] FCC: College Algebra with Python
-* [ ] FCC: Legacy Python for Everybody
-* [ ] Coursera: AI for Everyone
+* [ ] [Udacity: Intro to Python for AI Programmers](https://github.com/hattiza/scrumble/issues/1)
+* [ ] [Udacity: Linear Algebra Essentials](https://github.com/hattiza/scrumble/issues/2)
+* [ ] [FCC: Scientific Computing with Python (Beta) - first 4 sections](https://github.com/hattiza/scrumble/issues/5)
+   * [ ] Learn String Manipulation by Building a Cipher
+   * [ ] Learn How to Work with Numbers and Strings by Implementing the Luhn Algorithm
+   * [ ] Learn Lambda Functions by Building an Expense Tracker
+   * [ ] Learn Python List Comprehension By Building a Case Converter Program 
+* [ ] [FCC: College Algebra with Python](https://github.com/hattiza/scrumble/issues/4)
+* [ ] [FCC: Legacy Python for Everybody](https://github.com/hattiza/scrumble/issues/3)
+* [ ] [Coursera: AI for Everyone](https://github.com/hattiza/scrumble/issues/6)
 
 ### Sprint 1 [21-DEC-2023] - [03-JAN-2023]
 
@@ -20,11 +24,11 @@
 * FCC: Legacy Python for Everybody
 * Udacity: Intro to Python for AI Programmers [UD Python]
 * FCC: College Algebra with Python
-    * Learn Ratios and Proportions, Not started
-    * Learn How to Solve for X, Not started
-    * Learn Fractions and Decimals, Not started
-    * Learn Functions and Graphing, Not started
-    * Learn Linear Functions, Not started
+    * Learn Ratios and Proportions
+    * Learn How to Solve for X
+    * Learn Fractions and Decimals
+    * Learn Functions and Graphing
+    * Learn Linear Functions
 
 #### Daily standup
 
