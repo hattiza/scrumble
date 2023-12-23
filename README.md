@@ -8,11 +8,7 @@
 
 * [ ] [Udacity: Intro to Python for AI Programmers](https://github.com/hattiza/scrumble/issues/1)
 * [ ] [Udacity: Linear Algebra Essentials](https://github.com/hattiza/scrumble/issues/2)
-* [ ] [FCC: Scientific Computing with Python (Beta) - first 4 sections](https://github.com/hattiza/scrumble/issues/5)
-  * [ ] Learn String Manipulation by Building a Cipher
-  * [ ] Learn How to Work with Numbers and Strings by Implementing the Luhn Algorithm
-  * [ ] Learn Lambda Functions by Building an Expense Tracker
-  * [ ] Learn Python List Comprehension By Building a Case Converter Program
+* [X] [FCC: Scientific Computing with Python (Beta) - first 4 sections](https://github.com/hattiza/scrumble/issues/5)
 * [ ] [FCC: College Algebra with Python](https://github.com/hattiza/scrumble/issues/4)
 * [ ] [FCC: Legacy Python for Everybody](https://github.com/hattiza/scrumble/issues/3)
 * [ ] [Coursera: AI for Everyone](https://github.com/hattiza/scrumble/issues/6)
@@ -54,15 +50,25 @@ Template:
   * FCC Legacy Python. finished. Closes [PR#3](https://github.com/hattiza/scrumble/issues/3)
   * AI for Everyone, week 2.
 * **Today:**
-  * UD Python, lesson 6. Scripting 14-33/33
-  * UD Python, lesson 7. OOP 1-10/31
-  * FCC: College Algebra with Python: Learn Ratios and Proportions
-* **Blockers:**
+  * FCC: Learn String Manipulation by Building a Cipher, Completed
+  * FCC: Learn How to Work with Numbers and Strings by Implementing the Luhn Algorithm, Completed
+  * FCC: Learn Lambda Functions by Building an Expense Tracker, Completed
+  * FCC: Learn Python List Comprehension By Building a Case Converter Program
+* **Blockers:** none, but had some issues with headphones and thus changed the study plan
 
 ##### [23-DEC-2023]
 
 * **Yesterday:**
+  * FCC: Learn String Manipulation by Building a Cipher, Completed
+  * FCC: Learn How to Work with Numbers and Strings by Implementing the Luhn Algorithm, Completed
+  * FCC: Learn Lambda Functions by Building an Expense Tracker, Completed
+  * FCC: Learn Python List Comprehension By Building a Case Converter Program
 * **Today:**
+  * UD Python, lesson 6. Scripting 14-33/33
+  * UD Python, lesson 7. OOP 1-10/31
+  * FCC: College Algebra with Python: Learn Ratios and Proportions
+  * FCC: Learn Regular Expressions by Building a Password Generator, Not started
+  * FCC: Learn Algorithm Design by Building a Shortest Path Algorithm
 * **Blockers:**
 
 ##### [24-DEC-2023]
