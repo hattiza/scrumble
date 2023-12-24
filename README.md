@@ -1,4 +1,5 @@
-# Scrum-inspired personal accountability log
+# ProofOfStudy
+Scrum-inspired personal accountability log
 
 ## [Release 01 [21-DEC-2023] - [14-FEB-2023]](https://github.com/hattiza/scrumble/milestone/1)
 
@@ -10,7 +11,7 @@
 * [ ] [Udacity: Linear Algebra Essentials](https://github.com/hattiza/scrumble/issues/2)
 * [X] [FCC: Scientific Computing with Python (Beta) - first 4 sections](https://github.com/hattiza/scrumble/issues/5)
 * [ ] [FCC: College Algebra with Python](https://github.com/hattiza/scrumble/issues/4)
-* [ ] [FCC: Legacy Python for Everybody](https://github.com/hattiza/scrumble/issues/3)
+* [X] [FCC: Legacy Python for Everybody](https://github.com/hattiza/scrumble/issues/3)
 * [ ] [Coursera: AI for Everyone](https://github.com/hattiza/scrumble/issues/6)
 
 ## Daily standup 
