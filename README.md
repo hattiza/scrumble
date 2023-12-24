@@ -23,7 +23,7 @@
 
 ### daily sprint log:
 
-* [Sprint 1 [21-DEC-2023] - [03-JAN-2023]](scrumble/01_sprint.md)
+* [Sprint 1 [21-DEC-2023] - [03-JAN-2023]](sprints/01_sprint.md)
 
 ## Retrospective
 
