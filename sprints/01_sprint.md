@@ -36,17 +36,20 @@
 * **Today:**
   * [X] AI for Everyone, week 3
   * [X] AI for Everyone, week 4
-  * [ ] UD Python, lesson 6. Scripting 14-33/33
-  * [ ] UD Python, lesson 7. OOP 1-10/31
-  * [ ] FCC: College Algebra with Python: Learn Ratios and Proportions
-  * [ ] FCC: Learn Algorithm Design by Building a Shortest Path Algorithm
+  * [X] UD Python, lesson 6. Scripting 14-33/33
+  * [X] UD Python, lesson 7. OOP 1-10/31
+  * [X] FCC: College Algebra with Python: Learn Ratios and Proportions
+  * [X] FCC: Learn Algorithm Design by Building a Shortest Path Algorithm 37/54
 * **Blockers:**
 
 ## [25-DEC-2023]
 
-* **Yesterday:**
 * **Today:**
+  * [ ] FCC: College Algebra with Python: Learn how to solve for X
+  * [ ] FCC: Learn Algorithm Design by Building a Shortest Path Algorithm - 8 to 10 steps, purely for habit
+  * [ ] UD: Python, lesson 7. OOP 11-15/31
 * **Blockers:**
+  * The explanation for shortest-path algo is non-existance, and the steps are akwardly worded. TODO: Must find a better resource for algorithms. 
 
 ## [26-DEC-2023]
 
