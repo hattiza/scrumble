@@ -1,61 +1,38 @@
 # Sprint 1 [21-DEC-2023] - [03-JAN-2023]
 
-## Goals
+* Today's plan the list of things on any given day
+* Yesterday's outcome is indicated by a checkmark `[X]` on the previous day.
 
-* [X] FCC: Legacy Python for Everybody
-* Udacity: Intro to Python for AI Programmers [UD Python]
-* FCC: College Algebra with Python
-  * Learn Ratios and Proportions
-  * Learn How to Solve for X
-  * Learn Fractions and Decimals
-  * Learn Functions and Graphing
-  * Learn Linear Functions
 
-### [21-DEC-2023]
+## [21-DEC-2023]
 
 * **Yesterday:** UD Python, lesson 4. Control Flow
 * **Today:**
-  * UD Python, lesson 5. Functions.
-  * FCC Legacy Python
+  * [X] UD Python, lesson 5. Functions.
+  * [X] FCC Legacy Python
 * **Blockers:** None
 
-### [22-DEC-2023]
+## [22-DEC-2023]
 
-* **Yesterday:**
-  * UD Python, lesson 5. Functions.
-  * UD Python, lesson 6. Scripting 13/33
-  * FCC Legacy Python. finished. Closes [PR#3](https://github.com/hattiza/scrumble/issues/3)
-  * AI for Everyone, week 2.
 * **Today:**
-  * FCC: Learn String Manipulation by Building a Cipher, Completed
-  * FCC: Learn How to Work with Numbers and Strings by Implementing the Luhn Algorithm, Completed
-  * FCC: Learn Lambda Functions by Building an Expense Tracker, Completed
-  * FCC: Learn Python List Comprehension By Building a Case Converter Program
+  * [X] FCC: Learn String Manipulation by Building a Cipher, Completed
+  * [X] FCC: Learn How to Work with Numbers and Strings by Implementing the Luhn Algorithm, Completed
+  * [X] FCC: Learn Lambda Functions by Building an Expense Tracker, Completed
+  * [X] FCC: Learn Python List Comprehension By Building a Case Converter Program
 * **Blockers:** none, but had some issues with headphones and thus changed the study plan
 
-### [23-DEC-2023]
+## [23-DEC-2023]
 
-* **Yesterday:**
-  * FCC: Learn String Manipulation by Building a Cipher, Completed
-  * FCC: Learn How to Work with Numbers and Strings by Implementing the Luhn Algorithm, Completed
-  * FCC: Learn Lambda Functions by Building an Expense Tracker, Completed
-  * FCC: Learn Python List Comprehension By Building a Case Converter Program
 * **Today:**
-  * UD Python, lesson 6. Scripting 14-33/33
-  * UD Python, lesson 7. OOP 1-10/31
-  * FCC: College Algebra with Python: Learn Ratios and Proportions
-  * FCC: Learn Regular Expressions by Building a Password Generator
-  * FCC: Learn Algorithm Design by Building a Shortest Path Algorithm
-* **Blockers:**
-
-### [24-DEC-2023]
-
-* **Yesterday:**
   * [ ] UD Python, lesson 6. Scripting 14-33/33
   * [ ] UD Python, lesson 7. OOP 1-10/31
   * [ ] FCC: College Algebra with Python: Learn Ratios and Proportions
   * [X] FCC: Learn Regular Expressions by Building a Password Generator
   * [ ] FCC: Learn Algorithm Design by Building a Shortest Path Algorithm
+* **Blockers:**
+
+## [24-DEC-2023]
+
 * **Today:**
   * [X] AI for Everyone, week 3
   * [X] AI for Everyone, week 4
@@ -65,61 +42,61 @@
   * [ ] FCC: Learn Algorithm Design by Building a Shortest Path Algorithm
 * **Blockers:**
 
-### [25-DEC-2023]
+## [25-DEC-2023]
 
 * **Yesterday:**
 * **Today:**
 * **Blockers:**
 
-### [26-DEC-2023]
+## [26-DEC-2023]
 
 * **Yesterday:**
 * **Today:**
 * **Blockers:**
 
-### [27-DEC-2023]
+## [27-DEC-2023]
 
 * **Yesterday:**
 * **Today:**
 * **Blockers:**
 
-### [28-DEC-2023]
+## [28-DEC-2023]
 
 * **Yesterday:**
 * **Today:**
 * **Blockers:**
 
-### [29-DEC-2023]
+## [29-DEC-2023]
 
 * **Yesterday:**
 * **Today:**
 * **Blockers:**
 
-### [30-DEC-2023]
+## [30-DEC-2023]
 
 * **Yesterday:**
 * **Today:**
 * **Blockers:**
 
-### [31-DEC-2023]
+## [31-DEC-2023]
 
 * **Yesterday:**
 * **Today:**
 * **Blockers:**
 
-### [01-JAN-2023]
+## [01-JAN-2023]
 
 * **Yesterday:**
 * **Today:**
 * **Blockers:**
 
-### [02-JAN-2023]
+## [02-JAN-2023]
 
 * **Yesterday:**
 * **Today:**
 * **Blockers:**
 
-### [03-JAN-2023]
+## [03-JAN-2023]
 
 * **Yesterday:**
 * **Today:**

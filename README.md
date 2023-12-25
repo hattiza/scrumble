@@ -12,7 +12,7 @@ Scrum-inspired personal accountability log
 * [X] [FCC: Scientific Computing with Python (Beta) - first 4 sections](https://github.com/hattiza/scrumble/issues/5)
 * [ ] [FCC: College Algebra with Python](https://github.com/hattiza/scrumble/issues/4)
 * [X] [FCC: Legacy Python for Everybody](https://github.com/hattiza/scrumble/issues/3)
-* [ ] [Coursera: AI for Everyone](https://github.com/hattiza/scrumble/issues/6)
+* [X] [Coursera: AI for Everyone](https://github.com/hattiza/scrumble/issues/6)
 
 ## Daily standup 
 
