@@ -44,7 +44,7 @@
   * UD Python, lesson 6. Scripting 14-33/33
   * UD Python, lesson 7. OOP 1-10/31
   * FCC: College Algebra with Python: Learn Ratios and Proportions
-  * FCC: Learn Regular Expressions by Building a Password Generator, Not started
+  * FCC: Learn Regular Expressions by Building a Password Generator
   * FCC: Learn Algorithm Design by Building a Shortest Path Algorithm
 * **Blockers:**
 
@@ -54,9 +54,15 @@
   * [ ] UD Python, lesson 6. Scripting 14-33/33
   * [ ] UD Python, lesson 7. OOP 1-10/31
   * [ ] FCC: College Algebra with Python: Learn Ratios and Proportions
-  * [X] FCC: Learn Regular Expressions by Building a Password Generator, Not started
+  * [X] FCC: Learn Regular Expressions by Building a Password Generator
   * [ ] FCC: Learn Algorithm Design by Building a Shortest Path Algorithm
 * **Today:**
+  * [X] AI for Everyone, week 3
+  * [X] AI for Everyone, week 4
+  * [ ] UD Python, lesson 6. Scripting 14-33/33
+  * [ ] UD Python, lesson 7. OOP 1-10/31
+  * [ ] FCC: College Algebra with Python: Learn Ratios and Proportions
+  * [ ] FCC: Learn Algorithm Design by Building a Shortest Path Algorithm
 * **Blockers:**
 
 ### [25-DEC-2023]

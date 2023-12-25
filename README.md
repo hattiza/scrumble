@@ -28,4 +28,6 @@ Scrum-inspired personal accountability log
 
 ## Retrospective
 
-<TBD>
+* [X] [FCC: Scientific Computing with Python (Beta) - first 4 sections](https://github.com/hattiza/scrumble/issues/5)
+* [X] [FCC: Legacy Python for Everybody](https://github.com/hattiza/scrumble/issues/3)
+* [X] [Coursera: AI for Everyone](https://github.com/hattiza/scrumble/issues/6)
