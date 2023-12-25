@@ -24,7 +24,7 @@
 ## [23-DEC-2023]
 
 * **Today:**
-  * [ ] UD Python, lesson 6. Scripting 14-33/33
+  * [X] UD Python, lesson 6. Scripting 14-33/33
   * [ ] UD Python, lesson 7. OOP 1-10/31
   * [ ] FCC: College Algebra with Python: Learn Ratios and Proportions
   * [X] FCC: Learn Regular Expressions by Building a Password Generator
