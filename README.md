@@ -13,6 +13,7 @@ Scrum-inspired personal accountability log
 * [ ] [FCC: College Algebra with Python](https://github.com/hattiza/scrumble/issues/4)
 * [X] [FCC: Legacy Python for Everybody](https://github.com/hattiza/scrumble/issues/3)
 * [X] [Coursera: AI for Everyone](https://github.com/hattiza/scrumble/issues/6)
+* [ ] [Programming with JavaScript [by Meta]](https://github.com/hattiza/scrumble/issues/7)
 
 ## Daily standup 
 
