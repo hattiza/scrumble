@@ -10,97 +10,82 @@
 * **Today:**
   * [X] UD Python, lesson 5. Functions.
   * [X] FCC Legacy Python
-* **Blockers:** None
 
 ## [22-DEC-2023]
 
-* **Today:**
   * [X] FCC: Learn String Manipulation by Building a Cipher, Completed
   * [X] FCC: Learn How to Work with Numbers and Strings by Implementing the Luhn Algorithm, Completed
   * [X] FCC: Learn Lambda Functions by Building an Expense Tracker, Completed
   * [X] FCC: Learn Python List Comprehension By Building a Case Converter Program
-* **Blockers:** none, but had some issues with headphones and thus changed the study plan
+### Blockers:
+none, but had some issues with headphones and thus changed the study plan
 
 ## [23-DEC-2023]
 
-* **Today:**
   * [X] UD Python, lesson 6. Scripting 14-33/33
   * [ ] UD Python, lesson 7. OOP 1-10/31
   * [ ] FCC: College Algebra with Python: Learn Ratios and Proportions
   * [X] FCC: Learn Regular Expressions by Building a Password Generator
   * [ ] FCC: Learn Algorithm Design by Building a Shortest Path Algorithm
-* **Blockers:**
 
 ## [24-DEC-2023]
 
-* **Today:**
   * [X] AI for Everyone, week 3
   * [X] AI for Everyone, week 4
   * [X] UD Python, lesson 6. Scripting 14-33/33
   * [X] UD Python, lesson 7. OOP 1-10/31
   * [X] FCC: College Algebra with Python: Learn Ratios and Proportions
   * [X] FCC: Learn Algorithm Design by Building a Shortest Path Algorithm 37/54
-* **Blockers:**
 
 ## [25-DEC-2023]
 
-* **Today:**
-  * [ ] FCC: College Algebra with Python: Learn how to solve for X
-  * [ ] FCC: Learn Algorithm Design by Building a Shortest Path Algorithm - 8 to 10 steps, purely for habit
-  * [ ] UD: Python, lesson 7. OOP 11-15/31
-* **Blockers:**
+  * [X] FCC: College Algebra with Python: Learn how to solve for X
+  * [X] FCC: Learn Algorithm Design by Building a Shortest Path Algorithm - 8 to 10 steps, purely for habit
+  * [X] UD: Python, lesson 7. OOP 11-15/31
+### Blockers:
   * The explanation for shortest-path algo is non-existance, and the steps are akwardly worded. TODO: Must find a better resource for algorithms. 
 
 ## [26-DEC-2023]
 
 * **Yesterday:**
-* **Today:**
-* **Blockers:**
+### Blockers:
 
 ## [27-DEC-2023]
 
 * **Yesterday:**
-* **Today:**
-* **Blockers:**
+### Blockers:
 
 ## [28-DEC-2023]
 
 * **Yesterday:**
-* **Today:**
-* **Blockers:**
+### Blockers:
 
 ## [29-DEC-2023]
 
 * **Yesterday:**
-* **Today:**
-* **Blockers:**
+### Blockers:
 
 ## [30-DEC-2023]
 
 * **Yesterday:**
-* **Today:**
-* **Blockers:**
+### Blockers:
 
 ## [31-DEC-2023]
 
 * **Yesterday:**
-* **Today:**
-* **Blockers:**
+### Blockers:
 
 ## [01-JAN-2023]
 
 * **Yesterday:**
-* **Today:**
-* **Blockers:**
+### Blockers:
 
 ## [02-JAN-2023]
 
 * **Yesterday:**
-* **Today:**
-* **Blockers:**
+### Blockers:
 
 ## [03-JAN-2023]
 
 * **Yesterday:**
-* **Today:**
-* **Blockers:**
+### Blockers:
